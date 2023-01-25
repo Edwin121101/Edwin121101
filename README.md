@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Edwin Villegas
-#### I am an Computer Systems Engineer 💻
+#### I am an Student of Computer Systems Engineer 💻
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: HTML / CSS / PHP / JS / MySQL / SQL / Bootsrap
