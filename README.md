@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Edwin Villegas
 #### I am an Student of Computer Systems Engineer 💻🎓
 
+![Prueba de img](https://github.com/Edwin121101/imagenes-edwin.git/assets/playita.jpeg)
+
 > Skills: HTML / CSS / PHP / JS / MySQL / SQL / Bootstrap
 
 - 🔭 I’m currently working on `Developer Web` 
