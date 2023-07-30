@@ -12,3 +12,4 @@ Skills: HTML / CSS / PHP / JS / MySQL / SQL / Bootstrap
 
 ⚠ working on my profile... ⚙
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Edwin121101&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&type=png&background=45%2C564C7E%2C14236A)](https://git.io/streak-stats)
